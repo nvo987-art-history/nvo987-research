@@ -1,0 +1,54 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+
+  "name": "NVO987 Research Infrastructure",
+  "description": "Research infrastructure, identifiers and metadata hub for the scholarly and art history work of Nicholas Van-Orton.",
+
+  "codeRepository": "https://github.com/nvo987-art-history/nvo987-research",
+
+  "url": "https://www.nvo987.us",
+
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+
+  "version": "1.0",
+
+  "dateCreated": "2026-01-01",
+
+  "keywords": [
+    "research infrastructure",
+    "metadata",
+    "art history",
+    "scholarly communication",
+    "persistent identifiers",
+    "ORCID",
+    "ISNI"
+  ],
+
+  "author": {
+    "@type": "Person",
+    "givenName": "Nicholas",
+    "familyName": "Van-Orton",
+
+    "email": [
+      "0730nicholas@gmail.com",
+      "nvo@nvo987.us"
+    ],
+
+    "identifier": [
+      "https://orcid.org/0009-0007-4628-1871",
+      "https://isni.org/isni/0000000529640885",
+      "https://w3id.org/nvo987"
+    ],
+
+    "sameAs": [
+      "https://github.com/nvo987-art-history",
+      "https://www.nvo987.us"
+    ]
+  },
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub"
+  }
+}
