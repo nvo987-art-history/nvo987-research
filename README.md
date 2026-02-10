@@ -2,7 +2,7 @@
 
 Research infrastructure, identifiers and metadata hub for the scholarly and art history work of **Nicholas Van-Orton**.
 
-This repository serves as a persistent, citable dataset and reference layer.
+This release is intended as a citable research software package. 
 
 ---
 
